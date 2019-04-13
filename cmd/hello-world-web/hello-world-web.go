@@ -1,7 +1,10 @@
 package main
 
-import "net/http"
-import "github.com/dherbric/hello-world-web/internal/hellocontroller"
+import (
+	"net/http"
+
+	"github.com/dherbric/hello-world-web/internal/hellocontroller"
+)
 
 func main() {
 	http.HandleFunc("/", hellocontroller.Greet)

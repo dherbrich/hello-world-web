@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/dherbric/hello-world-pkg"
+	"github.com/dherbrich/hello-world-pkg"
 )
 
 var (
