@@ -1,0 +1,4 @@
+FROM scratch
+ADD hello-world-web /
+CMD ["/hello-world-web"]
+EXPOSE 8080
