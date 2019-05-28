@@ -1,2 +1,4 @@
 github.com/dherbrich/hello-world-pkg v0.0.0-20190413211021-409c828b00ac h1:CLBq1xm37XAqeDodMrT/rcqO5OyaA484KIIWdOFRGYA=
 github.com/dherbrich/hello-world-pkg v0.0.0-20190413211021-409c828b00ac/go.mod h1:Gei+eTzCFgUdy5fEe/4TbaT1k5Sa5i4D3Hqrpx40L+g=
+github.com/gorilla/mux v1.7.1 h1:Dw4jY2nghMMRsh1ol8dv1axHkDwMQK2DHerMNJsIpJU=
+github.com/gorilla/mux v1.7.1/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
