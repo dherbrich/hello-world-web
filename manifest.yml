@@ -1,0 +1,10 @@
+---
+applications:
+  - name: hello-world-go
+    env:
+      GOVERSION: go1.12
+      GOPACKAGENAME: github.com/dherbrich/hello-world-web
+      GO_INSTALL_PACKAGE_SPEC: "./cmd/hello-world-web"
+      HELLO_PORT: 8080
+      PERSON: dherbrich
+    random-route: true
